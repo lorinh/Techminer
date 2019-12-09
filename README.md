@@ -1,4 +1,6 @@
 # Techminer
-This was written using Lua and the graphics engine Love2D.
+2D Terraria like game with a focus on technology.
 
-This can be found on Steam greenlight (When that was a thing) <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=436754044">here</a>.
+Built for Love2D and coded in Lua.
+
+This can be found on Steam greenlight (When that was a thing) <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=436754044">here</a> and the official website can be found at: https://sites.google.com/site/techminergame/
